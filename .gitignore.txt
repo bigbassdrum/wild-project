@@ -1,0 +1,2 @@
+# ignorer le fichier secret_file
+secret_file.html
